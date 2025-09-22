@@ -5,7 +5,6 @@ hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=
 vless://07f59e57-3856-4b82-b9d1-a11bef08cc4a@[2604:2dc0:101:200::2c69]:443?security=reality&encryption=none&pbk=sYwKWy1SJ3q9XzIpI-LrBPyMkueCc1NtjjMCht-LKSs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=a5837487270bc5c1#@vpnserverrr_Premium
 vless://07f59e57-3856-4b82-b9d1-a11bef08cc4a@[2a01:4f9:c012:80c::1]:443?security=reality&encryption=none&pbk=sYwKWy1SJ3q9XzIpI-LrBPyMkueCc1NtjjMCht-LKSs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=a5837487270bc5c1#@vpnserverrr_Premium
 vless://1b38f1a4-5d20-44a9-a4d3-ca621ebfefbf@[2a03:b0c0:3:f0:0:1:230e:f000]:27270?mode=gun&security=reality&encryption=none&pbk=OMYgAO-fEdI3x7diLQDd2-xTkEMNNCeeYDhuweqex0c&fp=chrome&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=journalofbigdata.springeropen.com&sid=ab#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://Parsashonam-298@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#💎 @AblNet7 💎
 vless://Parsashonam-302@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@Dropcube⚡❤️‍🔥
 vless://Parsashonam-302@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@Selinc
 vless://Parsashonam-302@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#All-@IRAN_V2RAY1
@@ -18,7 +17,6 @@ vless://Parsashonam-304@[2a01:4f8:1c1a:dc2b::1]:8888?security=&encryption=none&h
 vless://Parsashonam-304@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://Parsashonam-305@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://Parsashonam-306@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@AblNet7 🇮🇷 نت ملی
-vless://Parsashonam-307@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@HiByeVPNN👈⚡❤️‍🔥
 vless://Parsashonam-307@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@vpnserverrr
 vless://Parsashonam-308@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@Hddify🇩🇪 نیازمند فعال بودن ipv6
 vless://Parsashonam-308@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@Selinc
